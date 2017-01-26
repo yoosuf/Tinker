@@ -1,0 +1,29 @@
+{
+  "name": "tinker",
+  "version": "1.0.0",
+  "description": "Tinker an Admin Dashboard solution for anyone",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoosuf/Tinker.git"
+  },
+  "keywords": [
+    "admin",
+    "dashboard",
+    "bootstrap",
+    "flexbox",
+    "highspeed"
+  ],
+  "author": "Yoosuf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoosuf/Tinker/issues"
+  },
+  "homepage": "https://github.com/yoosuf/Tinker#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
